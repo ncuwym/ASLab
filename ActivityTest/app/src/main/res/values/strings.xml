@@ -1,0 +1,7 @@
+<resources>
+    <!--app_name-->
+    <string name="app_name">Test</string>
+    <string name="firstActivityButton">Button_1</string>
+    <string name="secondActivityButton">Button_2</string>
+    <string name="thirdActivityButton">Button_3</string>
+</resources>

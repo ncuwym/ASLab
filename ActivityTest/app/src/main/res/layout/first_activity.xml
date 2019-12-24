@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--add a button,width as its parent,and adapt its content
+        button id button_1,show Button_1 on the button entity
+    -->
+
+    <Button
+        android:id="@+id/firstActivityButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/firstActivityButton" />
+</LinearLayout>

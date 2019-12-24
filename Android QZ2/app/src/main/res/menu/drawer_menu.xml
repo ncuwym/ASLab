@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/toolb"
+            android:title="关于">
+            <menu>
+                <item android:id="@+id/About"
+                    android:icon="@mipmap/ic_about"
+                    android:title="关于"/>
+            </menu>
+        </item>
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/hobby"
+            android:title="首页">
+            <menu>
+                <item android:id="@+id/film"
+                    android:icon="@mipmap/ic_android"
+                    android:title="首页"/>
+            </menu>
+        </item>
+    </group>
+    <group  android:checkableBehavior="single">
+        <item android:id="@+id/people"
+            android:title="个人中心">
+            <menu>
+                <item android:id="@+id/wallet"
+                    android:icon="@mipmap/ic_about"
+                    android:title="钱包"/>
+                <item android:id="@+id/collect"
+                    android:icon="@mipmap/ic_resources"
+                    android:title="收藏"/>
+
+                <item android:id="@+id/setting"
+                    android:icon="@mipmap/ic_video"
+                    android:title="设置"/>
+                <item android:id="@+id/favorite"
+                    android:icon="@mipmap/ic_daily"
+                    android:title="特别关心"/>
+                <item android:id="@+id/freport"
+                    android:icon="@mipmap/ic_welfare"
+                    android:title="文件管理"/>
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

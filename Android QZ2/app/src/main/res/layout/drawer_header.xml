@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:background="@drawable/ic_launcher_background"
+android:layout_height="match_parent">
+<ImageView
+    android:layout_marginTop="15dp"
+    android:id="@+id/header_icon"
+    android:layout_centerHorizontal="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@mipmap/ic_app"/>
+<TextView
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="20dp"
+    android:layout_below="@+id/header_icon"
+    android:layout_alignParentLeft="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/nick_name"
+    android:text=""
+    android:textSize="18sp"/>
+<TextView
+    android:layout_marginLeft="20dp"
+    android:layout_below="@+id/nick_name"
+    android:layout_alignParentLeft="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/desc"
+    android:text="信息！"
+    android:textSize="18sp"/>
+</RelativeLayout>
+

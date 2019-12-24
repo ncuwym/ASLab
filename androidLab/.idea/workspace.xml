@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb4668c7-36fd-416f-8cdf-f81608eee0e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../android/ActivityLab/app/src/main/java/com/examples/activitylab/FirstActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/ActivityLab/app/src/main/java/com/examples/activitylab/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/ActivityLab/app/src/main/java/com/examples/activitylab/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/ActivityLab/app/src/main/res/layout/activity_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/ActivityLab/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/ActivityTest/app/src/main/java/com/examples/activitytest/DialogActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/ActivityTest/app/src/main/res/layout/activity_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/androidTest/java/com/examples/lab1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/java/com/examples/lab1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/app/src/test/java/com/examples/lab1/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/Lab1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/java/com/examples/uitest/Msg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/java/com/examples/uitest/MsgAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/UITest/app/src/main/res/layout/msg_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/androidTest/java/com/examples/broadcast/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/java/com/examples/broadcast/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/app/src/test/java/com/examples/broadcast/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/broadcast/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/androidTest/java/com/examples/chatroom/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/java/com/examples/chatroom/ChatActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/java/com/examples/chatroom/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/layout/layout_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/layout/layout_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/app/src/test/java/com/examples/chatroom/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../android/chatroom/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dp/src/d3/test2/AddCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dp/src/d3/test2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dp/src/d3/test2/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dp/src/d3/test2/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dp/src/d3/test2/Test.java" afterDir="false" />
+      <change beforePath="D:/work/plus.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_29" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="462" />
+    <option name="y" value="36" />
+    <option name="width" value="1169" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectId" id="1UbHkGF8v889M6n7vOoeDyo5IsY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="androidLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="androidLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="androidLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="androidLab" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalendarTest" />
+      <module name="androidLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalendarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb4668c7-36fd-416f-8cdf-f81608eee0e4" name="Default Changelist" comment="" />
+      <created>1575618516022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575618516022</updated>
+      <workItem from="1575618523800" duration="8062000" />
+      <workItem from="1575628096582" duration="2211000" />
+      <workItem from="1575635541153" duration="107000" />
+      <workItem from="1575645580378" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295905" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
